@@ -33,7 +33,7 @@ def square(number):
 
 # YOUR CODE HERE:
 
-
+greet_student("Declan")
 
 
 
